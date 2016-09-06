@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  
+  #HLTE family
   <project name="trader418/android_device_samsung_hlte/" path="device/samsung/hlte" remote="github" revision="cm-13.0" />
   <project name="trader418/android_device_samsung_hltespr/" path="device/samsung/hltespr" remote="github" revision="cm-13.0" />
   <project name="trader418/android_device_samsung_hlte-common/" path="device/samsung/hlte-common" remote="github" revision="cm-13.0" />
@@ -11,4 +13,12 @@
   <project name="trader418/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
   <project name="trader418/android_device_samsung_hltevzw/" path="device/samsung/hltevzw" remote="github" revision="cm-13.0" />
+  
+  # Oneplus3
+  <project name="CyanogenMod/android_device_oneplus_oneplus3/" path="device/oneplus/oneplus3" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_oneplus_msm8996/" path="kernel/oneplus/msm8996" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks/" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci/" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc/" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_oppo_common/" path="device/oppo/common" remote="github" revision="cm-13.0" />
 </manifest>
